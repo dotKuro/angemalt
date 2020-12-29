@@ -1,0 +1,7 @@
+You can just use the name of the color: ${color1}
+
+You can also specify an other format for that color: ${color1_RRGGBBAA}
+
+You can also access a single channel of a color: ${color1_red}
+
+And also choose a format for the channel: ${color1_red_hex}
